@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chan0304
-- 👀 I’m interested in ...Python coding and cloud sevice
+- 👀 I’m interested in ...Python coding and cloud service
 - 🌱 I’m currently learning ...Python and Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/chandan-kumar-bn-57b864196
