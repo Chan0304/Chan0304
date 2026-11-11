@@ -15,6 +15,15 @@ These case studies are public-facing summaries only. Source code, internal worki
 - [DOTS Workforce AI — AI Workflow Orchestration](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/dots-workforce-ai.md)
 - [Maner Poultry ERP](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/maner-poultry-erp.md)
 - [Secret Hair Care](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/secret-hair-care.md)
+- [Candidate Connect & ITPL — Candidate Experience](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/candidate-experience.md)
+- [Sprachraum — German Tutor](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/sprachraum-german-tutor.md)
+- [ORB Solar — Product Family](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/orb-solar-family.md)
+- [Housizy Command Center](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/housizy-command-center.md)
+- [VendorPath Go](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/vendorpath-go.md)
+- [VerisFlow Orchestrator](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/verisflow-orchestrator.md)
+- [Guardian — Security & AI Product Family](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/guardian-security-ai.md)
+- [Gemini Insights Hub](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/gemini-insights-hub.md)
+- [Real Estate Platform Family](https://github.com/Chan0304/Chan0304/blob/main/portfolio/projects/real-estate-platform-family.md)
 
 ## Selected public repositories
 
