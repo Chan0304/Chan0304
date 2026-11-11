@@ -12,6 +12,7 @@ A curated, documentation-only portfolio presenting selected product, project, an
 
 | Project | Area | Public case study |
 |---|---|---|
+| Trumarx | IP and brand-services operations platform | [View case study](projects/trumarx.md) |
 | Oribrix | Construction materials marketplace and logistics | [View case study](projects/oribrix.md) |
 | GoScore | Study-abroad digital platform | [View case study](projects/goscore.md) |
 | Royale Hayat | Healthcare digital experience | [View case study](projects/royale-hayat.md) |
