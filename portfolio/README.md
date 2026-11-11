@@ -18,6 +18,8 @@ A curated, documentation-only portfolio presenting selected product, project, an
 | TestLadr | Assessment and exam-management platform | [View case study](projects/testladr.md) |
 | TechSchool | Technology learning platform | [View case study](projects/techschool.md) |
 | DOTS Workforce AI | AI workflow orchestration concept | [View case study](projects/dots-workforce-ai.md) |
+| Maner Poultry ERP | Poultry operations and ERP | [View case study](projects/maner-poultry-erp.md) |
+| Secret Hair Care | Personalised hair-care experience | [View case study](projects/secret-hair-care.md) |
 
 ## How to read these case studies
 Each page separates known project context from proposed or unverified capabilities. It is a public-facing product-management narrative, not a mirror of the private source repository.
