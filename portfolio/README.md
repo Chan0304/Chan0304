@@ -20,6 +20,15 @@ A curated, documentation-only portfolio presenting selected product, project, an
 | DOTS Workforce AI | AI workflow orchestration concept | [View case study](projects/dots-workforce-ai.md) |
 | Maner Poultry ERP | Poultry operations and ERP | [View case study](projects/maner-poultry-erp.md) |
 | Secret Hair Care | Personalised hair-care experience | [View case study](projects/secret-hair-care.md) |
+| Candidate Connect & ITPL | Candidate recruitment and application experience | [View case study](projects/candidate-experience.md) |
+| Sprachraum | German-language learning and tutoring | [View case study](projects/sprachraum-german-tutor.md) |
+| ORB Solar | Solar operations, business and insights product family | [View case study](projects/orb-solar-family.md) |
+| Housizy Command Center | Product command-center experience | [View case study](projects/housizy-command-center.md) |
+| VendorPath Go | Vendor management and workflow | [View case study](projects/vendorpath-go.md) |
+| VerisFlow Orchestrator | Workflow orchestration | [View case study](projects/verisflow-orchestrator.md) |
+| Guardian | Security monitoring and AI product family | [View case study](projects/guardian-security-ai.md) |
+| Gemini Insights Hub | AI-assisted insights workspace | [View case study](projects/gemini-insights-hub.md) |
+| Real Estate Platform | Real-estate product and admin workspaces | [View case study](projects/real-estate-platform-family.md) |
 
 ## How to read these case studies
 Each page separates known project context from proposed or unverified capabilities. It is a public-facing product-management narrative, not a mirror of the private source repository.
